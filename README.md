@@ -7,7 +7,9 @@
 
 ## Nintendont 分支
 
-github 尚未提供打包下载，需要手动更新：
+### App 更新说明
+
+github 尚未提供 App 打包下载，需要手动更新：
 
 源项目 FIX94/Nintendont | 目标项目 R-Sam-1980/wii-apps
 --- | ---
@@ -15,5 +17,11 @@ loader/loader.dol | apps/Nintendont/boot.dol
 nintendont/icon.png | apps/Nintendont/icon.png
 nintendont/meta.xml | apps/Nintendont/meta.xml
 
-FIX94 目前的做法是：每次修改了代码之后会重新编译生成 loader.dol
-R-Sam 对应的做法是：更新完 .dol 文件之后，手动修改 meta.xml 里面的 version 和 release_date
+- FIX94 目前的做法是：每次修改了代码之后会重新编译生成 loader.dol
+- R-Sam 对应的做法是：不定期检查 FIX94 是否有更新，替换完 .dol 文件之后，手动修改 meta.xml 里面的 version 和 release_date
+
+
+### 频道安装文件
+
+- 频道安装文件来自：https://wads.gabubu.xyz/wads
+- 两个文件之间除了背景音乐不同之外，其他的地方都一样
