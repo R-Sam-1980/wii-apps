@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
   <name>MPlayer CE</name>
-  <coder>MPlayer CE Team</coder>
-  <version>0.80 r658</version>
+  <coder>MPlayer CE Team &amp; R-Sam</coder>
+  <version>0.80.cn r658</version>
   <release_date>2024-06-23</release_date>
   <short_description>Wii Media Player</short_description>
   <long_description>Homebrew media player for the Nintendo Wii.
@@ -21,9 +21,9 @@ Copyright Statement:
   Dimok, Joedj.</long_description>
   <no_ios_reload />
   <ahb_access />
-<!--  
+<!--
   <arguments>
-    <arg>sd:/video/movie/Air Force One.rmvb</arg>
+    <arg>sd:/video/movie/空军一号.rmvb</arg>
   </arguments>
 -->
 </app>
