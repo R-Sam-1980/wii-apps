@@ -23,5 +23,5 @@ nintendont/meta.xml | apps/Nintendont/meta.xml
 
 ### 频道安装文件
 
-- 频道安装文件来自：https://wads.gabubu.xyz/wads
-- 两个文件之间除了背景音乐不同之外，其他的地方都一样
+- wad\Nintendont 文件夹里的两个 .wad 文件来自：https://wads.gabubu.xyz/wads
+- 两个文件的内容除了背景音乐不一样，其他地方都一样
