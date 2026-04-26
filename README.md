@@ -17,3 +17,9 @@ sourceforge 下载页面 R259.zip 解压后的内容
 - boot.dol 和语言文件来自：https://github.com/saulfabregwiivc/wiixplorer-wupc
 - 版本：r259.wupc
 - 时间：2022-06-23
+
+
+## wiixplorer-cn 分支
+
+- 基于 wiixplorer-en 分支
+- 只保留中文和英文的语言文件
