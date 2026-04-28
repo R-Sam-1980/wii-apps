@@ -15,3 +15,8 @@
 
 - apps\wiimc\onlinemedia.xml 来自网友分享
 - apps\wiimc 里的字体文件来自 github
+
+
+## wiimc-cn 分支
+
+使用中文字体文件作为字幕字体文件
