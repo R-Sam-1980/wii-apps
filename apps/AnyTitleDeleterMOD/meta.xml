@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.3">
+<name>AnyTitle Deleter MOD</name>
+<version>v7.1</version>
+<release_date>201104120000</release_date>
+<coder>Red Squirrel</coder>
+<short_description>Delete any title</short_description>
+<long_description>AnyTitle Deleter is an application coded by tona to delete any title from your Wii, even those impossible to delete "normally".
+This version is a "mod" by Red Squirrel of the original one: now the real name (and not only the title ID as in the original version!) of (almost) any title will appear near it in the menu!
+In this way you can understand simply and immediately what you're removing!
+</long_description>
+</app>

@@ -1,0 +1,39 @@
+﻿### Database for AnyTitle Deleter by Red Squirrel
+### Note: The correct database sintax is: ID-NAME
+###	  ID must be of 3 chars (the fourth is its region, useless for our purpose!)
+###       Names must be shorter than 64 chars!
+
+###Hidden Channels###
+HAK-EULA Hidden Channel
+HAL-Region Select Hidden Channel
+DVD-DVDx Hidden Channel (pre 4.2-fix)
+DIS-DVDx Hidden Channel
+
+###Downloaded Game Content###
+WFC-FFCC: My Life as a King - Extra Content
+r9J-The Beatles: Rock Band DLC
+sWA-DJ Hero DLC
+sXA-Guitar Hero World Tour DLC
+sXE-Guitar Hero 5 DLC
+sXG-Guitar Hero Smash Hits DLC
+sZC-Rock Band 2 DLC
+w4T-Spaceball Revolution DLC
+w9L-Copter Crisis DLC
+wBJ-Harvest Moon: My Little Shop DLC
+wBK-Arkanoid Plus DLC
+wBL-Bubble Bobble Plus! DLC
+wE6-My Dolphin DLC
+wF2-Final Fantasy Crystal Chronicles: My Life As A Darklord DLC
+wF4-Final Fantasy IV - The After Years DLC
+wF5-Family Card Games DLC
+wFC-Final Fantasy Crystal Chronicles: My Life as a King DLC
+wGS-Phoenix Wright: Ace Attorney DLC
+wIV-Space Invaders Get Even DLC
+wLP-Lonpos DLC
+wO6-Family Pirate Party DLC
+wOG-Family Mini Golf DLC
+wPU-Bust-A-Move Plus! DLC
+wR9-Mega Man 9 DLC
+wRX-Mega Man 10 DLC
+wZH-My Zoo DLC
+
