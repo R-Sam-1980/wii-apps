@@ -1,2 +1,11 @@
-# wii-apps
-R-Sam 收集整理的 Wii Apps。
+# WiiMC
+
+- 网址：https://github.com/dborth/wiimc
+- 版本：1.3.4
+- 时间：2013-11-23
+
+
+## wiimc-download 分支
+
+- apps\wiimc 文件夹里的内容来自 github 发布页面的 WiiMC.1.3.4.New.Install.zip
+- apps\wiimc-channel-installer 文件夹里的内容来自 github 发布页面的 WiiMC.Channel.Installer.2.0.zip
