@@ -7,4 +7,5 @@
 
 ## retroarch-wii-download 分支
 
-nintendo > wii > RetroArch.7z 解压后的内容
+- nintendo > wii > RetroArch.7z 解压后的内容
+- retroarch.cfg 是第一次运行 SD 卡上的 App 时自动生成的
