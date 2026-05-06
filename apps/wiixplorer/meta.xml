@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
   <name>WiiXplorer</name>
-  <coder>Dimok</coder>
+  <coder>Dimok &amp; saulfabreg</coder>
   <version>r259.wupc</version>
-  <release_date>2022-06-23</release_date>
-  <no_ios_reload/>
+  <release_date>20220623</release_date>
   <ahb_access/>
   <short_description>Wii File Browser</short_description>
   <long_description>A multi device file explorer for the Wii.
