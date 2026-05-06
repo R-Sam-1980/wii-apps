@@ -3,9 +3,24 @@
 
 ## wiixplorer-download 分支
 
+### App 主体
+
+apps 文件夹里的文件来源：
 - 网址：https://sourceforge.net/projects/wiixplorer
+- 文件名：sourceforge 下载页面的 R259.zip
 - 版本：r259
 - 时间：2013-04-28
-- apps 文件夹里的内容来自 sourceforge 下载页面的 R259.zip
+
+### 官方频道
+
 - WiiXplorer Channel v12 (v5 Design).wad 来自 sourceforge 下载页面的 WiiXplorer Channel v12 (v5 Design) - WIIX.zip
 - WiiXplorer Channel v12 (v5 Design).wad 也可以从 github 下载：https://github.com/lemolosse/WiiXplorer-WAD
+
+### RunningSnakes 制作的频道
+
+wad 文件夹里的文件来源：
+- 论坛：https://gbatemp.net/threads/retroarch-hexaeco-emulators.600834
+- 网盘：https://www.mediafire.com/folder/kup4smqh4aw45/RunningSnakes_Forwarders
+- 文件名：WiiXplorer.zip
+- 大小：4.99MB
+- 更新时间：2024-11-15 01:24:57
