@@ -1,0 +1,18 @@
+FBA Psikyo RetroArch & SS-Hexaeco Compatibility List
+
+Dragon Blaze (Shump)\dragnblz.zip"
+Gunbarich\gnbarich.zip"
+Gunbird (Shump)\gunbird.zip"
+Hot Debut Quiz\hotdebut.zip"
+Lode Runner - Dig Fight\loderndf.zip"
+Lode Runner - Dig Fight\loderndfa.zip"
+Mahjong G-Taste\mjgtaste.zip"
+Strikers 1945 (Shump)\s1945.zip"
+Strikers 1945 II (Shump)\s1945ii.zip"
+Samurai Aces\samuraia.zip"
+Space Bomber (Shump)\sbomber.zip"
+Space Bomber (Shump)\sbombera.zip"
+Samurai Aces\sngkace.zip"
+Sol Divide - Sword Of Darkness (Shump)\soldivid.zip"
+Tengai\tengai.zip"
+Tengai\tengaij.zip"

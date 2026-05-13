@@ -1,0 +1,16 @@
+
+
+ FUSE SS-RETROARCH
+
+ 1. This core supports Wiimote, Classic, GameCube controllers
+
+ 2. This core does not support loading multiple games in one session...
+    After exiting 1st game played, simply Load Core/ZX Spectrum, then load another game
+
+ 3. Sinclair 1 Joystick & Kempston usually work...
+    You may have to toggle this setting depending on the game
+
+ 4. You must press (+) & (-) buttons simultaneously to use Virtual Keyboard
+
+ 
+ 

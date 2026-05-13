@@ -1,0 +1,12 @@
+
+
+ SS-Vectrex
+
+ ------------
+
+ Roms must be renamed EXACTLY what CFG and Overlay files are named.
+
+ EXAMPLE:
+ All-Good-Things.cfg
+ All-Good-Things.png
+ All-Good-Things.vec

@@ -1,0 +1,8 @@
+FBA CPS3 RetroArch & SS-Hexaeco Compatibility List
+
+JoJo's Venture\jojo.zip"
+JoJo's Bizarre Adventure\jojoba.zip"
+Red Earth\redearth.zip"
+Street Fighter III New Generation\sfiii.zip"
+Street Fighter III 2nd Impact\sfiii2.zip"
+Street Fighter III 3rd Strike\sfiii3.zip"

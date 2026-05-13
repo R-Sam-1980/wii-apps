@@ -1,0 +1,13 @@
+
+ ========================
+
+ BIOS are required...
+
+ bios_CD_E.bin
+ bios_CD_J.bin
+ bios_CD_U.bin
+
+ BIOS need to be placed in the following directory...
+ dev:/private/SG_CD/system
+
+ 
