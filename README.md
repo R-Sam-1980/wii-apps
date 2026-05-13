@@ -14,3 +14,9 @@
   - 文件名：RetroArch SS Hexaeco.zip
   - 大小：10.39MB
   - 更新时间：2024-11-09 18:14:40
+
+
+## RA-HEXAECO-en 分支
+
+- 基于 RA-HEXAECO-download 分支
+- 优化了遮罩文件命名
