@@ -1,8 +1,8 @@
 # Nintendont
 
 - 网址：https://github.com/FIX94/Nintendont
-- 版本：6.504
-- 时间：2026-04-09
+- 版本：6.505
+- 时间：2026-05-16
 
 
 ## Nintendont 分支
